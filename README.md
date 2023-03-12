@@ -1,1 +1,1 @@
-# IG-Phish
+# for educational
